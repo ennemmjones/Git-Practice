@@ -1,0 +1,10 @@
+C:\Users\n\source\repos\firstLibrary\bin\Debug\netcoreapp3.1\firstLibrary.deps.json
+C:\Users\n\source\repos\firstLibrary\bin\Debug\netcoreapp3.1\firstLibrary.dll
+C:\Users\n\source\repos\firstLibrary\bin\Debug\netcoreapp3.1\firstLibrary.pdb
+C:\Users\n\source\repos\firstLibrary\obj\Debug\netcoreapp3.1\firstLibrary.csproj.AssemblyReference.cache
+C:\Users\n\source\repos\firstLibrary\obj\Debug\netcoreapp3.1\firstLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\source\repos\firstLibrary\obj\Debug\netcoreapp3.1\firstLibrary.AssemblyInfoInputs.cache
+C:\Users\n\source\repos\firstLibrary\obj\Debug\netcoreapp3.1\firstLibrary.AssemblyInfo.cs
+C:\Users\n\source\repos\firstLibrary\obj\Debug\netcoreapp3.1\firstLibrary.csproj.CoreCompileInputs.cache
+C:\Users\n\source\repos\firstLibrary\obj\Debug\netcoreapp3.1\firstLibrary.dll
+C:\Users\n\source\repos\firstLibrary\obj\Debug\netcoreapp3.1\firstLibrary.pdb
